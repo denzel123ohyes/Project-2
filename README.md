@@ -4,6 +4,8 @@ This project is a web API for EcoPower Logistics whitch aims to sell a wide rang
 
 
 
+
+
 Reference List
 1. Wadepickett (no date) Tutorial: Deploy an ASP.NET Web App to Azure, Microsoft Learn. Available at: https://learn.microsoft.com/en-us/visualstudio/deployment/quickstart-deploy-aspnet-web-app?view=vs-2022&tabs=azure (Accessed: 16 August 2023).
 
