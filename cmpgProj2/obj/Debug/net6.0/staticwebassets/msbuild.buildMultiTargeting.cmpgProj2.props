@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cmpgProj2.props" />
+</Project>
